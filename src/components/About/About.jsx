@@ -43,19 +43,7 @@ const About = () => {
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
             I am a student passionate about web development, specializing in creating responsive interfaces, building functional backend systems, and designing clean, user-friendly UI/UX. I enjoy turning ideas into well-crafted digital experiences and continuously improving my skills across development and design.
           </p>
-          {/* Resume Button */}
-          <a
-            href="Muthu_resume_upd.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
-            style={{
-              background: 'linear-gradient(90deg, #8245ec, #a855f7)',
-              boxShadow: '0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec',
-            }}
-          >
-            DOWNLOAD CV
-          </a>
+         
           
         </div>
         {/* Right Side */}
